@@ -222,10 +222,7 @@ public class Graphs {
 			}
 
 			edgeTo.clear();
-			//    DEBUG CODE    //
-			//			System.out.println("MSTEdge := " + MSTEdge);
-			//			System.out.println("MSTEdge count := " + MSTEdge.size());
-			//			System.out.println("cities count := " + cities.size());
+			
 
 		}
 
